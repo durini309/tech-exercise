@@ -6,7 +6,7 @@
 
 The idea of this excercise is to develop a small currency converter application. This app will consist in one screen with 4 different screen states:
 
-<img width="887" alt="image" src="https://user-images.githubusercontent.com/13813905/202254958-d1a3a604-4eec-4aee-a27d-b35a4f4e82a0.png">
+<img width="1221" alt="image" src="https://user-images.githubusercontent.com/13813905/202261187-d2fd894f-ddb6-4d26-aeea-1cda181c231a.png">
 
 * Default: default state of the app. This state will be shown as soon as the app is run.
 * Loading: after clicking the "Trade" button, an API request should be made to get exchange rate, and therefore, make the conversion.
