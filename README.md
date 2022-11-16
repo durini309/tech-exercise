@@ -1,8 +1,10 @@
 # Android developer tech excercise
 
-## Currency app
+## Instructions
 
-### Functionality
+Start by cloning/downloading this repo. Then open either `xml-versior` or `compose-versionx` project in Android Studio, depending on the technology you want to use.
+
+## Functionality
 
 The idea of this excercise is to develop a small currency converter application. This app will consist in one screen with 4 different screen states:
 
@@ -31,8 +33,4 @@ and this will be the response
     "usd": 1.034303
 }
 ```
-
-## XML vs Compose
-
-You can choose working on a XML or Compose projects, both are fine.
 
